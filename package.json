@@ -1,0 +1,20 @@
+{
+  "name": "627o5v7qn",
+  "description": null,
+  "version": "0.0.36",
+  "dependencies": {
+    "react-swipeable-views-utils": "0.12.11",
+    "react-swipeable-views": "0.12.12",
+    "react-dom": "16.2.0",
+    "react": "16.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

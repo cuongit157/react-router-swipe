@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router": "4.2.0",
+    "react-router-dom": "4.2.2",
+    "react-swipeable-routes": "0.4.1",
+    "react-swipeable-views": "latest",
+    "react-swipeable-views-utils": "latest"
+  }
+}
