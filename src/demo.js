@@ -36,7 +36,7 @@ class App extends Component {
           <Switch>
             <Route path="/red" component={RedView} />
             <Route path="/blue" component={BlueView} />{" "}
-            <SwipeableRoutes>
+            <SwipeableRoutes enableMouseEvents>
               <Route path="/green" component={GreenView} />
               <Route path="/yellow" component={YellowView} />
               <Route
